@@ -39,7 +39,7 @@ logo = """
 \033[1;32m | | | (_| |   <  __/ \033[1;33m | |  | | (_| | | |  __/ |   
 \033[1;32m |_|  \__,_|_|\_\___| \033[1;33m |_|  |_|\__,_|_|_|\___|_|   
 
-\033[1;36m [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY HTR-TECH \033[1;31m(\033[1;33mTAHMID RAYAT\033[1;31m)
+\033[1;36m [\033[1;37m+\033[1;36m]\033[1;32m ORIGINALLY CREATED BY HTR-TECH, MODIFIED BY CHIRAGSHERWANI2575 \033[1;31m(\033[1;33mTAHMID RAYAT\033[1;31m)
 """
 
 system("clear")
@@ -83,7 +83,7 @@ else:
     sleep(3)
     hprint(W + " Process can take some time !!")
     print ('')
-    print (Y + " Visit www.github.com/htr-tech for More Tools" + W)
+    print (Y + " Visit www.github.com/htr-tech for More Tools By Owner" + W)
     print ('')
 
 
